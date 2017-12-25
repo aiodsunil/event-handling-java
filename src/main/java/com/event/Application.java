@@ -1,12 +1,12 @@
-package com.event.eventhandlingjava;
+package com.event;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EventHandlingJavaApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EventHandlingJavaApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }

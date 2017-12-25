@@ -1,4 +1,4 @@
-package com.event.eventhandlingjava;
+package com.event;
 
 import org.junit.jupiter.api.Test;
 
